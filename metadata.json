@@ -1,0 +1,6 @@
+{
+  "name": "RepoLens",
+  "description": "Explore public GitHub repositories, view code and READMEs, track releases, and download APK assets directly on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
